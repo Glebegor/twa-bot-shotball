@@ -1,5 +1,3 @@
-<p>.env</p>
-
-```
-TELEGRAM_APITOKEN="id"
-```
+# TWA bot
+## Description
+Telegram bot to implement game and backend.
